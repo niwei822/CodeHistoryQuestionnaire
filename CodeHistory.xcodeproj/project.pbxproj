@@ -20,6 +20,7 @@
 		8CE1B9A428DE971000CB0B2B /* GameViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE1B9A328DE971000CB0B2B /* GameViewModel.swift */; };
 		8CE1B9A628DE973600CB0B2B /* ScoreViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE1B9A528DE973600CB0B2B /* ScoreViewModel.swift */; };
 		8CE953E928DFD25800E31606 /* BottomTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CE953E828DFD25800E31606 /* BottomTextView.swift */; };
+		8CEC648128E4ADC800AF5067 /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEC648028E4ADC800AF5067 /* ScoreView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		8CE1B9A328DE971000CB0B2B /* GameViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewModel.swift; sourceTree = "<group>"; };
 		8CE1B9A528DE973600CB0B2B /* ScoreViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreViewModel.swift; sourceTree = "<group>"; };
 		8CE953E828DFD25800E31606 /* BottomTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomTextView.swift; sourceTree = "<group>"; };
+		8CEC648028E4ADC800AF5067 /* ScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				8CE953E828DFD25800E31606 /* BottomTextView.swift */,
 				8CD477E728DFC053005F0BEC /* WelcomeView.swift */,
 				8C8E5D7F28E28AC3005BCFB1 /* QuestionView.swift */,
+				8CEC648028E4ADC800AF5067 /* ScoreView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				8CE1B99E28DE967500CB0B2B /* Game.swift in Sources */,
 				8CD477E828DFC053005F0BEC /* WelcomeView.swift in Sources */,
 				8CE953E928DFD25800E31606 /* BottomTextView.swift in Sources */,
+				8CEC648128E4ADC800AF5067 /* ScoreView.swift in Sources */,
 				8CD477EA28DFC44D005F0BEC /* GameColor.swift in Sources */,
 				8C2A4CD628D9708C005E901C /* GameView.swift in Sources */,
 				8C8E5D8028E28AC3005BCFB1 /* QuestionView.swift in Sources */,
