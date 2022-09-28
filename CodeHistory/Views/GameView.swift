@@ -26,6 +26,8 @@ struct GameView: View {
             }
         }
         .foregroundColor(.white)
+        .navigationBarHidden(true)
+        //any subviews will have access to the view model
         .environmentObject(viewModel)
     }
 }
